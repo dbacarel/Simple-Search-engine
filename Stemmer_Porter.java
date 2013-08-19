@@ -1,4 +1,3 @@
-package se.findwise.assignments.searchengine;
 
 
 /*
