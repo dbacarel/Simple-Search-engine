@@ -4,7 +4,7 @@
  * Daniele Bacarella 2013
  */
 
-package se.findwise.assignments.searchengine;
+
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
