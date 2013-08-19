@@ -3,7 +3,7 @@
  * 
  * Daniele Bacarella 2013
  */
-package se.findwise.assignments.searchengine;
+
 
 import java.util.Scanner;
 
