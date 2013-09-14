@@ -15,7 +15,7 @@ import java.util.HashMap;
 public class StopWordsFilter {
 	
 	private static HashMap<String,Boolean> sw_map;
-	private static final String FILEPATH= "src/se/findwise/assignments/searchengine/resources/stopwords.txt";
+	private static final String FILEPATH= "resources/stopwords.txt";
 	
 	public StopWordsFilter(){
 		sw_map = new HashMap<String,Boolean>();
